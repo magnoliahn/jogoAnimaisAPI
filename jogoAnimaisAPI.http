@@ -1,0 +1,6 @@
+@jogoAnimaisAPI_HostAddress = http://localhost:5145
+
+GET {{jogoAnimaisAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
