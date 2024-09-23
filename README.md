@@ -1,5 +1,5 @@
 # Jogo dos Animais
-Uma simples API mas um um desafiador jogo interativo.
+Uma simples API mas com um desafiador jogo interativo.
 # Technical Information
 - .NET 8.0
 - Visual Studio 2022
